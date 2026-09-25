@@ -2,8 +2,8 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_ar.md"><img src="images/fr-flag.png" height="13"> France</a></td></tr>
-  <tr><td><a href="README_ar.md"><img src="images/br-flag.png" height="13"> Brazil</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> France</a></td></tr>
+  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Brazil</a></td></tr>
 </table>
 
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
